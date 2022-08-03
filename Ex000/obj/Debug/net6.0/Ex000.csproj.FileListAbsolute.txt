@@ -1,0 +1,15 @@
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\bin\Debug\net6.0\Ex000.exe
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\bin\Debug\net6.0\Ex000.deps.json
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\bin\Debug\net6.0\Ex000.runtimeconfig.json
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\bin\Debug\net6.0\Ex000.dll
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\bin\Debug\net6.0\Ex000.pdb
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.csproj.AssemblyReference.cache
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.AssemblyInfoInputs.cache
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.AssemblyInfo.cs
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.csproj.CoreCompileInputs.cache
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.dll
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\refint\Ex000.dll
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.pdb
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\Ex000.genruntimeconfig.cache
+C:\Users\katae\Desktop\C##\Lesson_1\Ex000\obj\Debug\net6.0\ref\Ex000.dll
